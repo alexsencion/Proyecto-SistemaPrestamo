@@ -3,10 +3,10 @@
 
 Integrantes del equipo:
 
-1- Alexander Sencion
-2- Luis Garcia
-3- Jeremias Castro
-4- Jorge Joan
+1- Alexander Sencion 18-0353
+2- Luis Gómez 19-0122
+3- Rafael Castro 19-1701
+4- Jorge Meregildo 18-2599
 
 
 Este proyecto esta compuesto por diferentes capas y servicios, las cuales fueron creadas
